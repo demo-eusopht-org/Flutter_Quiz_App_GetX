@@ -4,11 +4,17 @@ Welcome to the Quiz App! This project is a simple yet powerful quiz application 
 
 🚀 Features
 Interactive Quiz Interface: Engaging UI with smooth animations.
+
 State Management: The state is efficiently managed using GetX.
+
 Real-time Score Update: Scores are updated in real-time as the user progresses through the quiz.
+
 Easy to Customize: The app’s structure allows easy customization and extension.
+
 🛠️ Technologies Used
+
 Flutter: For building beautiful, natively compiled applications for mobile.
+
 GetX: For state management, dependency injection, and route management.
 
 
